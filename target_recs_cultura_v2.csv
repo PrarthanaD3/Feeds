@@ -1,0 +1,11 @@
+﻿## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.custom1,entity.margin,entity.last_updated_by,entity.multi_english,entity.availability,entity.tax_country,entity.tax_region,entity.tax_rate,entity.product_type,entity.item_group_id,entity.color,entity.size,entity.brand,entity.gtin
+page-4f20281f4e,Pneumatic Tire Forklifts ,Toyota Products,,https://toyotaforkliftqa.scene7.com/is/image/toyotamhqa/ic-pneumatic-tire-product-line-hero-1,,https://qa.toyotaforklift.com/lifts/internal-combustion-forklifts-pneumatic-tire,,,,,,,,,,,,,,
+page-de033a4f9d,Electric Pallet Stackers ,Toyota Products,,https://toyotaforkliftqa.scene7.com/is/image/toyotamhqa/WalkieStacker_Performance,,https://qa.toyotaforklift.com/lifts/electric-pallet-stackers,,,,,,,,,,,,,,
+page-4a2e1f9451,Electric Order Pickers ,Toyota Products,,https://toyotaforkliftqa.scene7.com/is/image/toyotamhqa/order-picker-product-line-hero,,https://qa.toyotaforklift.com/lifts/electric-order-pickers,,,,,,,,,,,,,,
+page-6ba9caef19,Tow Tractors ,Toyota Products,,https://toyotaforkliftqa.scene7.com/is/image/toyotamhqa/tow-tractor-product-line-hero,,https://qa.toyotaforklift.com/lifts/tow-tractors,,,,,,,,,,,,,,
